@@ -104,5 +104,3 @@ It involves the visualization of data obtained from CVE reports, providing usefu
 ---
 
 This README file provides an overview of the projects developed in this repository, including technical details about the libraries used and key functions in each project. Each project includes its own detailed documentation and the necessary code files for execution.
-
-Thank you for reviewing our projects! If you have any questions or suggestions, feel free to contact us.
